@@ -1,6 +1,6 @@
-================================================================================
+================================================
 FILE DESCRIPTION
-================================================================================
+================================================
 
 This repository contains the source code accompanying the Master Thesis. 
 The code implements a High-Order Mimetic Spectral Element solver for the 

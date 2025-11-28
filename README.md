@@ -12,6 +12,15 @@ but can be provided if requested.
 Author: Manuel Fernandez Lopez
 
 --------------------------------------------------------------------------------
+0. REQUIREMENTS
+--------------------------------------------------------------------------------
+
+The code is written in Python 3. The following libraries are required:
+- numpy
+- scipy
+- matplotlib
+  
+--------------------------------------------------------------------------------
 1. CORE LIBRARIES
 --------------------------------------------------------------------------------
 

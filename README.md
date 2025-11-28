@@ -6,7 +6,8 @@ This repository contains the source code accompanying the Master Thesis.
 The code implements a High-Order Mimetic Spectral Element solver for the 
 mixed Poisson equation, featuring a custom p-Multigrid preconditioner 
 within a Hybridized (Schur Complement) framework. Only the key codes are
-uploaded and the plotting routines are skipped, but can be provided if requested.
+uploaded and the plotting routines are skipped most of the times,
+but can be provided if requested.
 
 Author: Manuel Fernandez Lopez
 
